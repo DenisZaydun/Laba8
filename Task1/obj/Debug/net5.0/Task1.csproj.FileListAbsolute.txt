@@ -1,0 +1,16 @@
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.exe
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.deps.json
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.runtimeconfig.json
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.runtimeconfig.dev.json
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.dll
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\ref\Task1.dll
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\bin\Debug\net5.0\Task1.pdb
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.csproj.AssemblyReference.cache
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.AssemblyInfoInputs.cache
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.AssemblyInfo.cs
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.csproj.CoreCompileInputs.cache
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.dll
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\ref\Task1.dll
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.pdb
+E:\My_Projects\c#\2 курс\Laba8 14.02.2022\Task1\obj\Debug\net5.0\Task1.genruntimeconfig.cache
